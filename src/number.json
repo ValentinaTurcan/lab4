@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "title": "To make a soup",
+    "description": "To make a soup, you need to boil water, add vegetables and spices, and let it simmer for 30 minutes.",
+    "dueDate": "2020-12-31",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Cooking"
+      },
+      {
+        "id": 2,
+        "name": "Food"
+      }
+    ],
+    "createdAt": "2020-12-31T23:59:59.999Z"
+  },
+  {
+    "id": "2",
+    "title": "To make a laboratory work",
+    "description": "To make a laboratory work, you need to boil water, add vegetables and spices, and let it simmer for 30 minutes.",
+    "dueDate": "2020-12-31",
+    "categories": [
+      {
+        "id": 3,
+        "name": "University"
+      },
+      {
+        "id": 4,
+        "name": "Working"
+      }
+    ],
+    "createdAt": "2020-12-31T23:59:59.999Z"
+  },
+  {
+    "id": "3",
+    "title": "To water the plants",
+    "description": "To water the plants, you need to boil water, add vegetables and spices, and let it simmer for 30 minutes.",
+    "dueDate": "2020-12-31",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Home"
+      },
+      {
+        "id": 6,
+        "name": "Garden"
+      }
+    ],
+    "createdAt": "2020-12-31T23:59:59.999Z"
+  }
+]
